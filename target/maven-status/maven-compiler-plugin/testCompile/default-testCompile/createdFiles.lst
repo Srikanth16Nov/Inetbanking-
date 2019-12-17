@@ -1,0 +1,9 @@
+com\inet\utilities\Reporting.class
+com\inet\testcases\BaseLine.class
+com\inet\testcases\TC1_LoginTest.class
+com\inet\utilities\XLUtils.class
+com\inet\testcases\TC2_LoginTestTDD.class
+com\inet\testcases\TC3_AddCustomerTest.class
+com\inet\pageobjects\AddCustomerPage.class
+com\inet\pageobjects\LoginPage.class
+com\inet\utilities\ReadConfig.class

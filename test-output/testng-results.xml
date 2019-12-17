@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62059" started-at="2019-12-15T02:25:01Z" finished-at="2019-12-15T02:26:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62059" started-at="2019-12-15T02:25:01Z" finished-at="2019-12-15T02:26:03Z">
+      <class name="com.inet.testcases.TC1_LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.inet.testcases.TC1_LoginTest@f6c48ac]" name="setUp" is-config="true" duration-ms="19878" started-at="2019-12-15T02:25:02Z" finished-at="2019-12-15T02:25:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inet.testcases.TC1_LoginTest@f6c48ac]" name="loginTest" duration-ms="3713" started-at="2019-12-15T02:25:22Z" finished-at="2019-12-15T02:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inet.testcases.TC1_LoginTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="729" started-at="2019-12-15T02:25:26Z" finished-at="2019-12-15T02:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inet.testcases.TC1_LoginTest -->
+      <class name="com.inet.testcases.TC3_AddCustomerTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.inet.testcases.TC3_AddCustomerTest@13deb50e]" name="setUp" is-config="true" duration-ms="11395" started-at="2019-12-15T02:25:27Z" finished-at="2019-12-15T02:25:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.inet.testcases.TC3_AddCustomerTest@13deb50e]" name="addNewCustomer" duration-ms="23957" started-at="2019-12-15T02:25:38Z" finished-at="2019-12-15T02:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inet.testcases.TC3_AddCustomerTest@13deb50e]" name="tearDown" is-config="true" duration-ms="1478" started-at="2019-12-15T02:26:02Z" finished-at="2019-12-15T02:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inet.testcases.TC3_AddCustomerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
